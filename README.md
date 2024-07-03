@@ -1,6 +1,8 @@
 simplifiyed algorithm used for optimizing heavy shots.
 
-More details can be found here:
+More details can be found here: 
+https://m01001010.github.io/cullingtool.html
+
 
 
 ![explaination](https://github.com/M01001010/CullingHDA/assets/53808048/1c2af086-1269-461f-a842-15dc37fa2def)
